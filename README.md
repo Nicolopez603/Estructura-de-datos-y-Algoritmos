@@ -1,6 +1,6 @@
 # Estructura-de-datos-y-Algoritmos
 
-- Big Os-
+### - Big Os-
 
 O(1) - Constantes (No loops)
 
@@ -20,10 +20,10 @@ O(n!) - Factorial: está agregando un bucle para cada elemento
 
 2) Dos colecciones separadas: O(a * b)
 
---------
+---------------
 
 
--¿Qué puede causar el tiempo en una función?-
+### -¿Qué puede causar el tiempo en una función?-
 
 Operaciones (+, -, *, /) 
 
@@ -35,7 +35,7 @@ Llamada de función externa (function())
 
 ---------------
 
--Rule Book-
+### -Rule Book-
 
 Regla 1: Siempre en el peor de los casos
 
@@ -47,9 +47,9 @@ Los arreglos A y B anidados serían O(a*b) + para los pasos en orden * para los 
 
 Regla 4: Elimina los términos no dominantes
 
--------------------
+---------------
 
--¿Qué causa la complejidad del espacio?-
+### -¿Qué causa la complejidad del espacio?-
 
 
 Variables
@@ -60,3 +60,14 @@ Funciones de llamada
 
 Allocations
 
+---------------
+
+### Pilares a tener en cuenta para tener un (y el mejor) mejor codigo
+
+1- Legible > Que tan facil de entender y escalable es 
+
+2- Memoria > Que tanta memoria ocupa > Space complexity
+
+3- Rapidez > Que tan rapido es > Time Complexity
+
+---------------
